@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coderbee16
-- 🌹 I'm a well-trained web developer 
+- 🌹 I'm a self-trained web developer 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on websites 
